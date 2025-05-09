@@ -1,7 +1,8 @@
 ✅ Video Demonstration
 [Watch the video here](https://preskilet.com/202401120029@mitaoe.ac.in)
 
- ✅ Download  cisco Certificate 
-[Download Certificate](./Completion%20of%20cisco%20certificate.pdf)
+ ✅View theory Assignment 
+[View](./CS8-52%20EDS%theory%20Activity%201.pdf)
 
- 
+ ✅ Cisco Certificate 
+[Download](./Completion%20of%20cisco%20certificate.pdf)
